@@ -7,3 +7,6 @@ postgres_data
 
 .next/
 .lh/
+
+# Prisma
+src/generated/
